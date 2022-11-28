@@ -1,0 +1,13 @@
+#carrusel {
+    display: flex;
+    justify-content:  center;  
+
+}
+
+.slide {
+    width: 550px;
+}
+
+footer {
+    background-color: #212529;
+}
